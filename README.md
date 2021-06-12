@@ -13,3 +13,5 @@ $this->lista[$n_candidato] [trim($colunas[5],'"')] [trim($colunas[8],'"')][] = (
 Identifique as colunas correspondentes e altere na linha acima para obter os dados. 
 
 Feito isso, o programa irá funcionar. Qualquer dúvida comente!!
+
+<img src="ScreenHunter 608.jpg"/>
