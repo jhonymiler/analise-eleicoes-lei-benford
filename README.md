@@ -15,3 +15,9 @@ Identifique as colunas correspondentes e altere na linha acima para obter os dad
 Feito isso, o programa irá funcionar. Qualquer dúvida comente!!
 
 <img src="ScreenHunter 610.jpg"/>
+
+# Video explicativo sobre a Lei de benford
+
+Neste video eu mostro como funciona a lei de Benford utilizando o Excel e depois demonstrando no sistema PHP
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eLZ8xKFpxQ0/0.jpg)](https://www.youtube.com/watch?v=eLZ8xKFpxQ0)
