@@ -56,7 +56,7 @@ window.onload = function () {
 		animationEnabled: true,
 		theme: "light2",
 		title:{
-			text: "Gráfic de Benford"
+			text: "Gráfico de Benford"
 		},
 		legend:{
 			cursor: "pointer",
